@@ -15,7 +15,7 @@ We will learn:
 
 Slides can be found here: https://docs.google.com/presentation/d/1aiI59gO4XIhYQGCTu7uS9AobtuzvCteaZy7Q9SxXXfU/edit?usp=sharing
 
-Code (with blanks) on Google Colab can be found here: https://colab.research.google.com/drive/1yl6t608wjzpWB9WZje7O7drUeghvSW
+Code (with blanks) on Google Colab can be found here: https://colab.research.google.com/drive/1yl6t608wjzpWB9WZje7O7drUeghvSWc5
 
 To edit the code, click **File** then **Save a copy in Drive…** <br />
 
