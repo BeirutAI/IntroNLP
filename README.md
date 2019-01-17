@@ -27,6 +27,7 @@ Happy coding 💻 <br />
 Live Love AI 😍 <br />
 Live Love NLP 😍 <br />
 
+The workshop was recorded and uploaded to [YouTube](https://www.youtube.com/watch?v=W8IfaXu1MCU)
 
 # Instructor
 This workshop was prepared and presented by [Obeida ElJundi] (https://www.linkedin.com/in/obeidaeljundi/)
