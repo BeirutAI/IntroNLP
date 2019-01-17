@@ -1,4 +1,4 @@
-# BeirutAI-intro2NLPworkshop
+# BeirutAI - Intro to NLP workshop
 Introduction to Natural Language Processing workshop
 
 We will learn:
@@ -26,3 +26,7 @@ To edit the code, click **File** then **Save a copy in Drive…** <br />
 Happy coding 💻 <br />
 Live Love AI 😍 <br />
 Live Love NLP 😍 <br />
+
+
+# Instructor
+This workshop was prepared and presented by [Obeida ElJundi] (https://www.linkedin.com/in/obeidaeljundi/)
